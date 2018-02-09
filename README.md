@@ -7,7 +7,9 @@ Additional Log config:snapsync.cfg in /etc/config/snapsync.cfg, format like belo
 
 ## Snapsync.cfg format
 [Logging]
+
 directory=/tmp
+
 file_level=10
 
 ## [Snapsync Usage]
