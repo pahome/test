@@ -1,9 +1,9 @@
 # Important
-[pylibaio]:put the folder in /usr/local/lib/python2.7/ and rename to libaio/ <p>
-Create folder to save mappings:/tmp/mappings/ <p>
-Default Log location:/etc/config/qsnapsync/logs <p>
-Default Log format:snapsync_err.log<p>
-Additional Log config:snapsync.cfg in /etc/config/snapsync.cfg, format like below <p>
+[pylibaio]:put the folder in /usr/local/lib/python2.7/ and rename to libaio/ <br >
+Create folder to save mappings:/tmp/mappings/ <br >
+Default Log location:/etc/config/qsnapsync/logs <br >
+Default Log format:snapsync_err.log<br >
+Additional Log config:snapsync.cfg in /etc/config/snapsync.cfg, format like below <br >
 
 ## Snapsync.cfg format
 [Logging]
